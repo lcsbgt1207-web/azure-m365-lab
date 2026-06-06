@@ -2,7 +2,6 @@
 
 Mise en place d'un environnement Microsoft 365 complet en lab : gestion des identités cloud (Entra ID), services M365 (SharePoint, Teams), messagerie Exchange Online, et identité hybride avec synchronisation d'un Active Directory local vers le cloud.
 
-Ce lab couvre la **Phase 2** de ma feuille de route d'informaticien complet (Virtualisation pro & cloud).
 
 ---
 
